@@ -8,8 +8,8 @@ Too often I encountered the need for programmers in various roles and communitie
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [sonia.chaboud@gmail.com](mailto:sonia.chaboud@gmail.com)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on Any open source projects in the following languages or frameworks: JavaScript, node.js, React.js, Express.js.
+* 🧠  I'm learning TypeScript and Python
+* 🤝  I'm open to collaborating on Any open source projects in the following languages or frameworks: Ruby on Rails, JavaScript, node.js, React.js, Express.js.
 * ⚡  Little Vampire.
 
 ### Skills
