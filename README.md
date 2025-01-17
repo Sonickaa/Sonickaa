@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full - Stack Web Developer
 --------------------------
 
-Too often I encountered the need for programmers in various roles and communities I engaged with. Programmers were consistently the most valuable contributors in my eyes. Eventually, I couldn't resist the allure of diving into coding myself, embarking on a journey of self-learning and seeking guidance from experienced programmers who encouraged me to take the leap. <br> My belief in my ability to learn anything I set my mind to led me to join the WBS coding school, an experience that ignited a deep passion for coding within me, followed up by Le Wagon coding experience and becoming part of the tech community. <br>
-At the moment I am teaching web development in Le Wagon bootcamp.
+Too often I encountered the need for programmers in various roles and communities I engaged with. Programmers were consistently the most valuable contributors in my eyes. Eventually, I couldn't resist the allure of diving into coding myself, embarking on a journey of self-learning and seeking guidance from experienced programmers who encouraged me to take the leap.
+
+My belief in my ability to learn anything I set my mind to led me to join the WBS coding school, an experience that ignited a deep passion for coding within me, followed up by Le Wagon coding experience and becoming part of the tech community. <br>
+At the moment I am teaching web development in Le Wagon.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [sonia.chaboud@gmail.com](mailto:sonia.chaboud@gmail.com)
