@@ -5,10 +5,11 @@ Full - Stack Web Developer
 --------------------------
 
 Too often I encountered the need for programmers in various roles and communities I engaged with. Programmers were consistently the most valuable contributors in my eyes. Eventually, I couldn't resist the allure of diving into coding myself, embarking on a journey of self-learning and seeking guidance from experienced programmers who encouraged me to take the leap. My belief in my ability to learn anything I set my mind to led me to join the WBS coding school, an experience that ignited a deep passion for coding within me, followed up by Le Wagon coding experience and becoming part of the tech community.
+At the moment I am teaching web development in Le Wagon bootcamp.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [sonia.chaboud@gmail.com](mailto:sonia.chaboud@gmail.com)
-* 🧠  I'm learning TypeScript and Python
+* 🧠  I'm learning Ruby and German (C1)
 * 🤝  I'm open to collaborating on Any open source projects in the following languages or frameworks: Ruby on Rails, JavaScript, node.js, React.js, Express.js.
 * ⚡  Little Vampire.
 
